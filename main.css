@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+  background-color: #ccc;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+section {
+  padding: 2rem;
+}
+
+h2 {
+  text-align: center;
+  padding: 2rem;
+}
