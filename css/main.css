@@ -33,6 +33,11 @@ li {
   justify-content: space-between;
 }
 
+p{
+  max-width: 24em;
+  margin: 0;
+}
+
 img {
   margin-right: 1.5rem;
   width: 5em;
