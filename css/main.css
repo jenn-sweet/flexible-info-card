@@ -15,9 +15,20 @@ body {
 
 section {
   padding: 2rem;
+  background-color: #ccc;
 }
 
 h2 {
   text-align: center;
   padding: 2rem;
+}
+
+ul {
+
+}
+
+li {
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
