@@ -24,13 +24,13 @@ h2 {
 }
 
 ul {
-
+  margin: 0;
 }
 
 li {
-display: flex;
-align-items: center;
-justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 img {
@@ -42,5 +42,5 @@ a {
   background-color: #444;
   text-decoration: none;
   color: #fff;
-  padding: .5rem 1rem .5rem;
+  padding: .5rem 1rem;
 }
